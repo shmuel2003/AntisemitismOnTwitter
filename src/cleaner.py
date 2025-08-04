@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-class TweetCleaner:
+class DataCleaner:
     def clean_text(self, text: str) -> str:
         text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
         return text.lower().strip()  # Convert to lowercase
