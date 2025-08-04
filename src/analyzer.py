@@ -7,6 +7,7 @@ class DataAnalyzer:
         self.df = df
         self.results = {}
 
+    # Checking how many tweets there are of each type
     def count_tweets(self):
         counts = self.df['biased'].value_counts().to_dict()
         total = len(self.df)
@@ -18,6 +19,7 @@ class DataAnalyzer:
             "<unspecified>": unspecified
         }
 
+    # Checking the average length of tweets
     def average_length(self):
         self.df["length"] = self.df["text"].apply(lambda x: len(x.split()))
         avg = self.df.groupby("biased")["length"].mean().to_dict()
@@ -28,6 +30,7 @@ class DataAnalyzer:
             "total": round(total_avg, 2)
         }
 
+    # Checking out the longest tweets
     def top_longest_tweets(self):
         self.df["length"] = self.df["text"].apply(lambda x: len(x.split()))
         top_n = lambda group: group.sort_values("length", ascending=False)["text"].head(3).tolist()
@@ -37,11 +40,13 @@ class DataAnalyzer:
             "non_antisemitic": top_n(groups.get_group(0)) if 0 in groups.groups else []
         }
 
+    # Checking what the most common words are
     def most_common_words(self, n=10):
         all_words = ' '.join(self.df["text"]).split()
         most_common = [word for word, _ in Counter(all_words).most_common(n)]
         self.results["common_words"] = {"total": most_common}
 
+    # Checks how many capitalized words appear
     def uppercase_words_count(self):
         def count_uppercase(text):
             return sum(1 for word in text.split() if word.isupper())
