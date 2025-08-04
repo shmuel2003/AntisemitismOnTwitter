@@ -1,0 +1,44 @@
+{
+    "total_tweets": {
+        "antisemitic": 1250,
+        "non_antisemitic": 5691,
+        "total": 6941,
+        "<unspecified>": 0
+    },
+    "average_length": {
+        "antisemitic": 23.04,
+        "non_antisemitic": 29.06,
+        "total": 27.97
+    },
+    "longest_3_tweets": {
+        "antisemitic": [
+            "brasasen openeysdown steven495 talal9409 toprantking no_israel_state mamash_lo leylakhalid22 makjob786 kimbennylarsen beerbaron14 seguelsaul passtheduchi joseetje3 pohonyangdamai mrpeabody david_starof shez19833 eliavabey mlirh scripteladora m_jew thezionist3 ladyalmagreen nigib1 iluvdemocracy99 drawniv lehired hebmacman albertgooner dlsmith0817 boomerangtime enlieretzaheret priestsanity yourfriendzippy mabigbelio aaisrael2 boomtown85 qtr_uk96 amilitantagnost stolimark fruitbatoo rururola73 slax43 coaxialcreature davidsy32945540 glennnross ilanyvv shoozer12 scopevale apartheidisrael if there is a more racist nation on this planet of our i dont know who it is black jews are actually treated appalling by the way check out david sheen hes done a lot of work exposing this httpstcos23b9r1fkw",
+            "leylakhalid22 simonvrouwe judgefudge5 yb1234oo roni4488 alonma221 ladyalmagreen joseetje3 resistdwp phant3985 hebmacman thezionist3 mistertwyst frontline972 yes_we_cat themoiety scripteladora david_starof malkaavram boomtown85 go4greatest scot4israel danielmazahreh iluvdemocracy99 jhorn12 slax43 baroniesisters sweposten serhumanomiguel swisstechie yankees_rule_ pakeha56 amoyal priestsanity telavivbroker canpassforsmart dorrit_r rse79 aron_alee hillshaveeyes02 searchfeast erezneumark abushlomo breginleif toprantking pohonyangdamai grattan_h charlieluchian2 rasputinish narrow_p yes but you arent such a jew the biblejews do not exist anymore\n\nthere are millions fakejews the heritage hunters\na from biblejews and\nb from holocaust\n\nhttpstcoclducbcump",
+            "bluegreenberg adrienwolf13 dlsmith0817 dec_judea aflanamabadi mabosisc sleepyhead513 abel_balb0 fredyosemite ppioer scripteladora m0sstr00per mehrmiriam love4al02036737 stephen46723144 gomiriam63 mrpeabody nadness13 aclosethecamps iq15991967 swepal1 iileahll paytoslayom bobby6172 ellyngail antizionistb kevankerby p3ng1z mattscottmusic doobydoobydo2 ingloriousbhere sunbeam110 docbegel retiredjudean nkippur folktayl lavbaaldevarim wildflower1948 realhasdaic ravshlomoyarhi emmettimanu luketebbs badridawud rosieveggdn samuellasker markrpellegrino hebmacman fishynobi kokokranch18 the historical record is limited patchy and not continuous\n\nthe region is home to a diverse population of which jews were an insignificant minority"
+        ],
+        "non_antisemitic": [
+            "onkelfester smoistpit melanie33720945 shi_fs malo_j muddypenguins jeremyfprice ggelliott1 flaffenbam waitherethen jfayesf canna420uk bringlydingle hiddenaudio mindfuldamage worstsamaritan remofjacob lapisgoat warrensm2 barneyfife09 briannazarenus truthwiththord luccaskunk letdbtellyou scientiapercept godflythe rkdoctr takethathistory mucusmucous doubledoublejon crispycurry galcondude _truthswordsa rev_deluxe maidelk heathenwombat spikeinthemidge sicut_lupus bbrown24646528 andrewrchapman umfpt 1pckt kendallshafer jools6691 adrianturner01 joemdodd85 pearspheroid apostatepod rtheatheist albinogoth i mean right there thats a christian worldview jews generally are more concerned with what is happening on earth and doing the right thing here theres not the same concept of heaven or hell and the whole thing about accepting everything on faith is very christian",
+            "syrianecho nissatal ezra_halevi m0sstr00per realchaim_rubin wisermann dhasbara thekanaaneh ahmedelshiekha viewreader dbenilevi carlpendleton6 bigduke077 paulmurff telavivyonatan thorsprovoni dmonsel rmorgy fruitbatoo logicandsanity baroniesisters rogsonl ladonna48241663 tikinggraphics pizzagatelibya malkaavram bluegreenberg wurzel260654 yoni_yonder methuengena pepperwingate tile57437223 sherif_el_sayad lephophora shamronari palestinereverb johnkkelly2 jdwstangs3 anastasiaklynch spiderzjay tbago mizrahi_b iluvdemocracy99 copernicus2013 cosfot laielkha nobodynorman rashidgill5 yitzchakaded nadiatonic2 the romans renamed the land of a israel when they also destroyed the second temple in jerusalem it was then called palestina jews have been living in the land of judea and summaria for centuries",
+            "mikepfarmer scripteladora slax43 david_starof yes_we_cat mistertwyst resistdwp edgyedgy123 yb1234oo promodelworld kimbennylarsen scot4israel joseetje3 pakeha56 toprantking danielmazahreh noah_guttman israelandstufff boomtown85 serhumanomiguel allene12344 frontline972 hebmacman simonvrouwe yankees_rule_ ladyalmagreen pohonyangdamai maccabboi arminm64 willybehera aron_alee densnij iluvdemocracy99 abushlomo swisstechie hillshaveeyes02 breginleif grattan_h charlieluchian2 thezionist3 rasputinish themoiety narrow_p viejojudio no1specialneway coaxialcreature petersfaone telavivbroker flyzone__ a it wasnt shamir it was stern\nb it was before palestinian jews realized the nazis planned a holocaust of jews\nc part of the motivation was to get jews out of europe and to palestine"
+        ]
+    },
+    "common_words": {
+        "total": [
+            "the",
+            "jews",
+            "to",
+            "of",
+            "and",
+            "in",
+            "a",
+            "is",
+            "israel",
+            "for"
+        ]
+    },
+    "uppercase_words": {
+        "antisemitic": 0,
+        "non_antisemitic": 0,
+        "total": 0
+    }
+}
